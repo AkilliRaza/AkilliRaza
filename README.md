@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+<h1 align="center">I'm Ali Raza</h1>
 <h3 align="center">💻 A Passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center">
